@@ -101,7 +101,7 @@ For this project, we only use the first and second dataset.
 ### Merge dataset 1 and dataset 2
 
 ```py
-state_merge = df4.merge(df2,
+state_merge = df1.merge(df2,
                                           left_on=['State', 'Year','Quarter'],
                                           right_on=['State', 'Year','Quarter'],
                                           how='left')
