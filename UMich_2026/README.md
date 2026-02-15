@@ -2,7 +2,7 @@
 
 ## By Robin Nguyen ☀️
 
-![Tax Paradise Banner](https://github.com/minhnbnguyen/BMO/blob/main/pics/1636124069353.jpeg)
+![Tax Paradise Banner](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2016.59.54.png)
 
 ## Introduction
 This project analyzes the economics impact on tax haven states and whether a state should become tax haven or not.
@@ -208,24 +208,25 @@ This makes it unclear whether the economic benefits come from having low taxes, 
 ## Key Findings
 
 ### High Severance Tax Revenue
-![Word Cloud](https://github.com/minhnbnguyen/BMO/blob/main/pics/wordcloud.png)
+![Word Cloud](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2017.00.16.png)
 - Tax haven states earn higher severance tax (*) revenue than their normal peers, more than $120k/year on average.
 (*) Severance Taxes. Taxes on the "severing" of natural resources (oil, gas, timber).
 
 
 ### GDP Per Capita
-![Line Graph](https://github.com/minhnbnguyen/BMO/blob/main/pics/Rplot.png)
+![Line Graph](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2017.00.29.png)
 - Based on the economic dataset provided, accounting for all states classified as either tax haven* or non-haven, the tax haven states performed better per capita in mean GDP.
 - Tax haven and non-haven states evened out during Covid (2020) but the data shows that tax haven states convincingly outpaced other states and are projected to continue to do better based on a linear regression forecast.
 
 
 ### Impact on Labor Force
-![Emotional content](https://github.com/minhnbnguyen/BMO/blob/main/pics/Rplot1.png)
+![Emotional content](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2017.00.36.png)
 - The labor force grows much stronger in tax haven states than non-haven states. Based  on the dataset, in the 20 years recorded, tax haven states increased by 1 million while non-haven states increased by around 250k. 
 - Being a tax haven creates a need for specialized sectors which show more resilience in hiring for specialized labor. It attracts the working population, growing the workforce and increasing the need for essential services.
 
 ### Limitations: Tax-haven states can make low income families pay higher overall tax rates
-![Emotional content](https://github.com/minhnbnguyen/BMO/blob/main/pics/Rplot1.png)
+![Emotional content](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2017.00.49.png)
+![Emotional content](https://github.com/minhnbnguyen/Datathon/blob/main/UMich_2026/viz/Screen%20Shot%202026-02-15%20at%2017.00.55.png)
 - Tax-haven states are likely to have higher sales & excise taxes.
 - Highest sales & excise taxes states can cause low income families pay higher overall tax rates.
 - In the chart above, 6 of the 10 states that depend most on sales and excise taxes are tax havens.
